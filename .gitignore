@@ -1,4 +1,7 @@
+.idea/
 *.class
 *.iml
 out/
 /library-sp19/
+.gitignore
+
